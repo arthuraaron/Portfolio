@@ -1,0 +1,6 @@
+This is the menu to a restaurant
+
+It will display the menu to you, then have you enter the price of 3 items
+The program will then calculate the total (with tax)
+It will ask you what % you want to tip, then calculate the tip amount
+All items on menu are in USD

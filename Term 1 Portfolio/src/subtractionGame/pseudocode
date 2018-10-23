@@ -1,0 +1,11 @@
+Subtraction Game pseudocode
+
+Initialize variables
+Generate 2 random numbers
+Make sure to make the first number bigger than the second
+Generate the correct answer
+Get the users answer
+See if the user gets the problem correct
+Give 1 score if they guess correctly
+Tell them what the correct answer was if they guess wrong
+Put the questions into a while loop to repeat

@@ -1,0 +1,9 @@
+Restaurant Menu pseudocode
+
+Initialize variables
+Display the menu to the user
+Get input from the user to see the prices of 3 items
+Calculate a sub total and total
+Ask for the % user wants to tip by
+Calculate the tip amount
+Display the total and tip amount

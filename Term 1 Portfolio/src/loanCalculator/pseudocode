@@ -1,0 +1,6 @@
+Pseudocode for loan calculator
+
+Initialize variables
+Ask for the amount, rate and time from user
+Calculate the total amount and each payment
+Output the total amount and each payment

@@ -1,0 +1,45 @@
+Guess my Number pseudocode
+
+Initialize changing variables
+
+Create main menu
+
+1. Play game
+
+	Generate random number
+	Ask user for bet
+	Ask user for number while they have lives and points
+	Award user if they are correct
+
+2. Options
+
+	1. Change range of number
+		
+		Shows current range
+		Lets user change range
+	
+	2. Change number of lives
+		
+		Shows current live count
+		Lets user change lives
+	
+	3. Change initial points
+	
+		Shows current points
+		Lets user change points
+		
+	4. Return to menu
+	
+		Returns to menu
+
+3. Credits
+
+	Shows credits
+	
+	1. Return to main menu
+		
+		Returns to main menu
+
+4. Exit
+
+	Exits program

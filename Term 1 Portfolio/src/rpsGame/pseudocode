@@ -1,0 +1,7 @@
+RPSGame pseudocode
+
+Generate a random sign for the computer
+Have the user enter their sign
+Use a multi-way if statement to check what the user sign is
+Nest a multi-way if statement to compare the two signs
+Print who wins the round
